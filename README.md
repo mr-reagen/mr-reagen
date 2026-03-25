@@ -12,6 +12,11 @@
   <b>📍 Kathmandu, Nepal</b>
 </p>
 
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mr-reagen&label=Profile%20Views&color=2496ED&style=flat" alt="Profile Views Counter" />
+</p>
+
 <!-- Social Links -->
 <p align="center">
   <a href="[Your LinkedIn Link Here]">
@@ -33,42 +38,43 @@
 
 ## 👨‍💻 Professional Summary
 
-Experienced IT Security Manager with a strong background in cloud architecture and cybersecurity. Skilled in implementing robust security measures and ensuring compliance with industry standards. Dedicated to enhancing organizational security posture through strategic planning and execution.
+> Experienced **IT Security Manager** with a strong background in cloud architecture and cybersecurity. Skilled in implementing robust security measures and ensuring compliance with industry standards. Dedicated to enhancing organizational security posture through strategic planning and execution.
 
 ## 🛠️ Areas of Expertise
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Cloud%20&%20Infrastructure-2496ED?style=flat-square&logo=Docker&logoColor=white" alt="Cloud Infrastructure" />
-  <img src="https://img.shields.io/badge/Cybersecurity-FF0000?style=flat-square&logo=security&logoColor=white" alt="Cybersecurity" />
-  <img src="https://img.shields.io/badge/Networking-1A246B?style=flat-square&logo=cisco&logoColor=white" alt="Networking" />
-  <img src="https://img.shields.io/badge/Software%20Engineering-512BD4?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Software Engineering" />
-  <img src="https://img.shields.io/badge/Leadership-FF9900?style=flat-square&logo=star&logoColor=white" alt="Leadership" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx,bash,python,js,ts,react,nodejs,git,vscode&perline=6" alt="Skill Icons" />
+  </a>
 </p>
-
-## 🏅 Certifications
-
-- <img src="https://img.shields.io/badge/Docker_DCA-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker DCA" />
-- <img src="https://img.shields.io/badge/CCNA-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="CCNA" />
-- <img src="https://img.shields.io/badge/CompTIA_Network+-FF0000?style=flat-square&logo=comptia&logoColor=white" alt="CompTIA" />
-- <img src="https://img.shields.io/badge/Bug_Bounty_Hunting-000000?style=flat-square&logo=hackerone&logoColor=white" alt="Bug Bounty" />
 
 ## 💼 Work Experience
 
-- **Saurik Solution** | IT Security Manager
-- **Nepal Cluster** | Board Member
-- **TechBit Hub** | Software Developer
-- **Silver Lining** | Datacenter Technician and NOC Specialist
-- **Protozoahost** | Graphic Designer
+| 🏢 Company | 👨‍💼 Role |
+| :--- | :--- |
+| **Saurik Solution** | IT Security Manager |
+| **Nepal Cluster** | Board Member |
+| **TechBit Hub** | Software Developer |
+| **Silver Lining** | Datacenter Technician & NOC Specialist |
+| **Protozoahost** | Graphic Designer |
 
 ## 🚀 Projects
 
-- **Baalvo:** Secondhand marketplace
-- **SAARTHI:** Civic alert system
+| 💡 Project | 📝 Description |
+| :--- | :--- |
+| **Baalvo** | Secondhand marketplace platform |
+| **SAARTHI** | Civic alert system |
 
-## 🎓 Education
+## 🎓 Education & Certifications
 
-- **Texas Int'l College** | BSc. in Computer Science & Information Technology
-- **Pentagon International College**
+| 📜 Certification / Degree | 🏫 Institution / Issuer |
+| :--- | :--- |
+| **BSc. in Computer Science & IT** | Texas Int'l College |
+| *(Education)* | Pentagon International College |
+| **Docker DCA** | Docker |
+| **CCNA** | Cisco |
+| **CompTIA Network+** | CompTIA |
+| **Bug Bounty Hunting** | HackerOne / Independent |
 
 ---
 
@@ -91,3 +97,7 @@ Experienced IT Security Manager with a strong background in cloud architecture a
 </div>
 
 ---
+
+<p align="center">
+  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=transparent" alt="Programming Quote" />
+</p>
