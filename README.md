@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF7A00,100:00C853&height=120&section=header&text=Sujit%20Raj%20Mehta&fontSize=40&fontAlign=50&fontAlignY=30&desc=IT%20Security%20Manager%20%7C%20Cloud%20Architecture&descAlign=50&descAlignY=55&fontColor=ffffff" alt="Header" />
 </p>
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Animated-Flag-Nepal.gif" height="80" alt="Animated Nepal Flag" />
+  <img src="https://flagcdn.com/h80/np.png" height="80" alt="Nepal Flag" />
 </p>
 <!-- Typing Animation Subtitle -->
 <p align="center">
