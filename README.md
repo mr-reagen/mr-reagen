@@ -1,33 +1,22 @@
 <!-- Dynamic Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF7A00,100:00C853&height=250&section=header&text=Sujit%20Raj%20Mehta&fontSize=50&fontAlign=50&fontAlignY=35&desc=IT%20Security%20Manager%20%7C%20Cloud%20Architecture&descAlign=50&descAlignY=60&fontColor=ffffff" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF7A00,100:00C853&height=120&section=header&text=Sujit%20Raj%20Mehta&fontSize=40&fontAlign=50&fontAlignY=30&desc=IT%20Security%20Manager%20%7C%20Cloud%20Architecture&descAlign=50&descAlignY=55&fontColor=ffffff" alt="Header" />
 </p>
 
 <!-- Typing Animation Subtitle -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00C853&center=true&vCenter=true&width=435&lines=Cybersecurity+Expert;Cloud+Architect;Software+Engineer;IT+Security+Manager" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=1000&color=00C853&center=true&vCenter=true&width=435&height=30&lines=Cybersecurity+Expert;Cloud+Architect;Software+Engineer;IT+Security+Manager" alt="Typing SVG" />
 </p>
 
-<!-- Dashboard Control Panel: Location & Views -->
+<!-- Social Links & Essential Info -->
 <p align="center">
-  <img src="https://img.shields.io/badge/📍%20Kathmandu,%20Nepal-1E1E1E?style=for-the-badge&labelColor=1E1E1E" alt="Location" />
-  <img src="https://komarev.com/ghpvc/?username=mr-reagen&label=VIEWS&color=FF7A00&labelColor=1E1E1E&style=for-the-badge" alt="Profile Views Counter" />
-</p>
-
-<!-- Social Links -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/sujitrajmehta/" target="_blank">
-    <img src="https://img.shields.io/badge/-1E1E1E?style=for-the-badge&logo=linkedin&logoColor=00C853" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/mr-reagen" target="_blank">
-    <img src="https://img.shields.io/badge/-1E1E1E?style=for-the-badge&logo=github&logoColor=00C853" alt="GitHub" />
-  </a>
-  <a href="https://www.facebook.com/mr.srmehta" target="_blank">
-    <img src="https://img.shields.io/badge/-1E1E1E?style=for-the-badge&logo=facebook&logoColor=00C853" alt="Facebook" />
-  </a>
-  <a href="https://www.instagram.com/sid_reagen/" target="_blank">
-    <img src="https://img.shields.io/badge/-1E1E1E?style=for-the-badge&logo=instagram&logoColor=00C853" alt="Instagram" />
-  </a>
+  <img src="https://img.shields.io/badge/📍_Kathmandu,_Nepal-1E1E1E?style=flat-square" alt="Location" />
+  <img src="https://komarev.com/ghpvc/?username=mr-reagen&label=Views&color=FF7A00&style=flat-square" alt="Profile Views Counter" />
+  <br><br>
+  <a href="https://www.linkedin.com/in/sujitrajmehta/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-00C853?style=flat-square&logo=linkedin&logoColor=white&labelColor=FF7A00" alt="LinkedIn" /></a>
+  <a href="https://github.com/mr-reagen" target="_blank"><img src="https://img.shields.io/badge/GitHub-00C853?style=flat-square&logo=github&logoColor=white&labelColor=FF7A00" alt="GitHub" /></a>
+  <a href="https://www.facebook.com/mr.srmehta" target="_blank"><img src="https://img.shields.io/badge/Facebook-00C853?style=flat-square&logo=facebook&logoColor=white&labelColor=FF7A00" alt="Facebook" /></a>
+  <a href="https://www.instagram.com/sid_reagen/" target="_blank"><img src="https://img.shields.io/badge/Instagram-00C853?style=flat-square&logo=instagram&logoColor=white&labelColor=FF7A00" alt="Instagram" /></a>
 </p>
 
 ---
