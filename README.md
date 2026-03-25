@@ -1,10 +1,6 @@
 <!-- Dynamic Header -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:FF7A00,100:00C853&height=250&section=header&text=Sujit%20Raj%20Mehta&fontSize=50&fontAlign=50&fontAlignY=35&desc=IT%20Security%20Manager%20%7C%20Cloud%20Architecture&descAlign=50&descAlignY=60&fontColor=ffffff" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:FF7A00,100:00C853&height=250&section=header&text=Sujit%20Raj%20Mehta&fontSize=50&fontAlign=50&fontAlignY=35&desc=IT%20Security%20Manager%20%7C%20Cloud%20Architecture&descAlign=50&descAlignY=60&fontColor=000000" />
-    <img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF7A00,100:00C853&height=250&section=header&text=Sujit%20Raj%20Mehta&fontSize=50&fontAlign=50&fontAlignY=35&desc=IT%20Security%20Manager%20%7C%20Cloud%20Architecture&descAlign=50&descAlignY=60&fontColor=ffffff" alt="Header" />
-  </picture>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF7A00,100:00C853&height=250&section=header&text=Sujit%20Raj%20Mehta&fontSize=50&fontAlign=50&fontAlignY=35&desc=IT%20Security%20Manager%20%7C%20Cloud%20Architecture&descAlign=50&descAlignY=60&fontColor=0000ff" alt="Header" />
 </p>
 
 <!-- Typing Animation Subtitle -->
