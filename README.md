@@ -10,6 +10,7 @@
 
 <!-- Social Links & Essential Info -->
 <p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Animated-Flag-Nepal.gif" height="20" alt="Nepal Flag" />
   <img src="https://img.shields.io/badge/📍_Kathmandu,_Nepal-1E1E1E?style=flat-square" alt="Location" />
   <img src="https://komarev.com/ghpvc/?username=mr-reagen&label=Views&color=FF7A00&style=flat-square" alt="Profile Views Counter" />
   <br><br>
@@ -89,11 +90,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-reagen&title_color=FF7A00&text_color=FFFFFF&icon_color=00C853&ring=FF7A00&fire=FF7A00&currStreakNum=00C853&sideNums=FFFFFF&currStreakLabel=FF7A00&sideLabels=FFFFFF&dates=FFFFFF&hide_border=true&background=00000000" alt="Streak Stats" />
 </div>
 
----
-
-<h2 align="center">📌 Highlighted Repositories</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mr-reagen&repo=SAARTHI&title_color=FF7A00&text_color=FFFFFF&icon_color=00C853&hide_border=true&bg_color=00000000" alt="SAARTHI Repo" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mr-reagen&repo=portfolio&title_color=FF7A00&text_color=FFFFFF&icon_color=00C853&hide_border=true&bg_color=00000000" alt="Portfolio Repo" width="48%" />
-</div>
 
