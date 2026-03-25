@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF7A00,100:00C853&height=120&section=header&text=Sujit%20Raj%20Mehta&fontSize=40&fontAlign=50&fontAlignY=30&desc=IT%20Security%20Manager%20%7C%20Cloud%20Architecture&descAlign=50&descAlignY=55&fontColor=ffffff" alt="Header" />
 </p>
-
+<p><img src="https://flagcdn.com/w40/np.png" height="20" alt="Nepal Flag" /></p>
 <!-- Typing Animation Subtitle -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=1000&color=00C853&center=true&vCenter=true&width=435&height=30&lines=Cybersecurity+Expert;Cloud+Architect;Software+Engineer;IT+Security+Manager" alt="Typing SVG" />
@@ -10,7 +10,6 @@
 
 <!-- Social Links & Essential Info -->
 <p align="center">
-  <img src="https://flagcdn.com/w40/np.png" height="20" alt="Nepal Flag" />
   <img src="https://img.shields.io/badge/📍_Kathmandu,_Nepal-1E1E1E?style=flat-square" alt="Location" />
   <img src="https://komarev.com/ghpvc/?username=mr-reagen&label=Views&color=FF7A00&style=flat-square" alt="Profile Views Counter" />
   <br><br>
