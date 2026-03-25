@@ -1,0 +1,17 @@
+name: Metrics
+on:
+  push:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          user: mr-reagen
