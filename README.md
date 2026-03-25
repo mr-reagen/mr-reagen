@@ -19,11 +19,17 @@
 
 <!-- Social Links -->
 <p align="center">
-  <a href="[Your LinkedIn Link Here]">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/sujitrajmehta/" target="_blank">
+    <img src="https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="[Your GitHub Link Here]">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/mr-reagen" target="_blank">
+    <img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.facebook.com/mr.srmehta" target="_blank">
+    <img src="https://img.shields.io/badge/-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://www.instagram.com/sid_reagen/" target="_blank">
+    <img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
