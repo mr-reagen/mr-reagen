@@ -97,9 +97,3 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mr-reagen&repo=portfolio&title_color=FF7A00&text_color=FFFFFF&icon_color=00C853&hide_border=true&bg_color=00000000" alt="Portfolio Repo" width="48%" />
 </div>
 
----
-
-<p align="center">
-  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=transparent" alt="Programming Quote" width="48%" />
-  <img src="https://readme-jokes.vercel.app/api?hideBorder=true&bgColor=00000000&textColor=FFFFFF&qColor=FF7A00&aColor=00C853" alt="Jokes Widget" width="48%" />
-</p>
