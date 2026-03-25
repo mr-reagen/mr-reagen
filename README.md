@@ -56,6 +56,16 @@ Experienced IT Security Manager with a strong background in cloud architecture a
 
 ## GitHub Metrics
 
-![GitHub Metrics](github-metrics.svg)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mr-reagen&show_icons=true&theme=radical&rank_icon=github" alt="Stats Card" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-reagen&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-reagen&theme=radical" alt="Streak Stats" />
+</p>
 
 ---
