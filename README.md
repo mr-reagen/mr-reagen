@@ -10,7 +10,7 @@
 
 <!-- Social Links & Essential Info -->
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Animated-Flag-Nepal.gif" height="20" alt="Nepal Flag" />
+  <img src="https://flagcdn.com/w40/np.png" height="20" alt="Nepal Flag" />
   <img src="https://img.shields.io/badge/📍_Kathmandu,_Nepal-1E1E1E?style=flat-square" alt="Location" />
   <img src="https://komarev.com/ghpvc/?username=mr-reagen&label=Views&color=FF7A00&style=flat-square" alt="Profile Views Counter" />
   <br><br>
