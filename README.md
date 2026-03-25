@@ -50,31 +50,32 @@
 
 ## 💼 Work Experience
 
-| 🏢 Company | 👨‍💼 Role |
-| :--- | :--- |
-| **Saurik Solution** | IT Security Manager |
-| **Nepal Cluster** | Board Member |
-| **TechBit Hub** | Software Developer |
-| **Silver Lining** | Datacenter Technician & NOC Specialist |
-| **Protozoahost** | Graphic Designer |
+<p align="center">
+  <img src="https://img.shields.io/badge/IT_Security_Manager-Saurik_Solution-00C853?style=for-the-badge&labelColor=FF7A00&logo=briefcase&logoColor=white" alt="Saurik Solution" />
+  <img src="https://img.shields.io/badge/Board_Member-Nepal_Cluster-FF7A00?style=for-the-badge&labelColor=00C853&logo=briefcase&logoColor=white" alt="Nepal Cluster" />
+  <img src="https://img.shields.io/badge/Software_Developer-TechBit_Hub-00C853?style=for-the-badge&labelColor=FF7A00&logo=briefcase&logoColor=white" alt="TechBit Hub" />
+  <img src="https://img.shields.io/badge/NOC_Specialist-Silver_Lining-FF7A00?style=for-the-badge&labelColor=00C853&logo=briefcase&logoColor=white" alt="Silver Lining" />
+  <img src="https://img.shields.io/badge/Graphic_Designer-Protozoahost-00C853?style=for-the-badge&labelColor=FF7A00&logo=briefcase&logoColor=white" alt="Protozoahost" />
+</p>
 
 ## 🚀 Projects
 
-| 💡 Project | 📝 Description |
-| :--- | :--- |
-| **Baalvo** | Secondhand marketplace platform |
-| **SAARTHI** | Civic alert system |
+<p align="center">
+  <img src="https://img.shields.io/badge/Baalvo-Marketplace_Platform-00C853?style=for-the-badge&labelColor=FF7A00&logo=rocket&logoColor=white" alt="Baalvo" />
+  <img src="https://img.shields.io/badge/SAARTHI-Civic_Alert_System-FF7A00?style=for-the-badge&labelColor=00C853&logo=rocket&logoColor=white" alt="SAARTHI" />
+</p>
 
 ## 🎓 Education & Certifications
 
-| 📜 Certification / Degree | 🏫 Institution / Issuer |
-| :--- | :--- |
-| **BSc. in Computer Science & IT** | Texas Int'l College |
-| *(Education)* | Pentagon International College |
-| **Docker DCA** | Docker |
-| **CCNA** | Cisco |
-| **CompTIA Network+** | CompTIA |
-| **Bug Bounty Hunting** | HackerOne / Independent |
+<p align="center">
+  <img src="https://img.shields.io/badge/BSc_CSIT-Texas_Int'l_College-00C853?style=for-the-badge&labelColor=FF7A00&logo=academia&logoColor=white" alt="Texas Int'l College" />
+  <img src="https://img.shields.io/badge/Education-Pentagon_College-FF7A00?style=for-the-badge&labelColor=00C853&logo=academia&logoColor=white" alt="Pentagon College" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Docker-DCA-00C853?style=for-the-badge&labelColor=FF7A00&logo=docker&logoColor=white" alt="Docker DCA" />
+  <img src="https://img.shields.io/badge/Cisco-CCNA-FF7A00?style=for-the-badge&labelColor=00C853&logo=cisco&logoColor=white" alt="CCNA" />
+  <img src="https://img.shields.io/badge/CompTIA-Network+-00C853?style=for-the-badge&labelColor=FF7A00&logo=comptia&logoColor=white" alt="CompTIA" />
+  <img src="https://img.shields.io/badge/HackerOne-Bug_Bounty-FF7A00?style=for-the-badge&labelColor=00C853&logo=hackerone&logoColor=white" alt="HackerOne" />
+</p>
 
 ---
 
