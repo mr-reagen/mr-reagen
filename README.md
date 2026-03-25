@@ -56,8 +56,6 @@ Experienced IT Security Manager with a strong background in cloud architecture a
 
 ## GitHub Metrics
 
-- Stars: [Your Stars Metric Here]  
-- Forks: [Your Forks Metric Here]  
-- Issues: [Your Issues Metric Here]  
+![GitHub Metrics](github-metrics.svg)
 
 ---
