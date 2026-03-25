@@ -20,16 +20,16 @@
 <!-- Social Links -->
 <p align="center">
   <a href="https://www.linkedin.com/in/sujitrajmehta/" target="_blank">
-    <img src="https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" width="52" height="52" />
+  </a>&nbsp;&nbsp;
   <a href="https://github.com/mr-reagen" target="_blank">
-    <img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+    <img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub" width="52" height="52" />
+  </a>&nbsp;&nbsp;
   <a href="https://www.facebook.com/mr.srmehta" target="_blank">
-    <img src="https://img.shields.io/badge/-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
+    <img src="https://img.icons8.com/fluency/48/000000/facebook-new.png" alt="Facebook" width="52" height="52" />
+  </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/sid_reagen/" target="_blank">
-    <img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="52" height="52" />
   </a>
 </p>
 
