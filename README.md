@@ -81,8 +81,8 @@
 <h2 align="center">📊 GitHub Metrics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mr-reagen&show_icons=true&count_private=true&include_all_commits=true&title_color=FF7A00&text_color=FFFFFF&icon_color=00C853&hide_border=true&bg_color=0D1117&rank_icon=github" alt="Stats Card" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-reagen&layout=donut&langs_count=8&title_color=FF7A00&text_color=FFFFFF&icon_color=00C853&hide_border=true&bg_color=0D1117" alt="Top Languages Donut" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mr-reagen&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&title_color=FF7A00&text_color=FFFFFF&icon_color=00C853&hide_border=true&bg_color=0D1117&rank_icon=github&cache_seconds=1800" alt="Stats Card" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-reagen&layout=donut&langs_count=8&title_color=FF7A00&text_color=FFFFFF&icon_color=00C853&hide_border=true&bg_color=0D1117&cache_seconds=1800" alt="Top Languages Donut" width="48%" />
 </div>
 
 <br>
