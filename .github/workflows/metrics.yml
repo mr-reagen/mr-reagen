@@ -13,7 +13,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@3.34
+      - uses: lowlighter/metrics@v3.34
         with:
           # Use a Personal Access Token (PAT) stored as METRICS_TOKEN secret.
           # GITHUB_TOKEN does NOT have enough permissions for most plugins.
