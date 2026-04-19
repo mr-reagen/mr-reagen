@@ -160,7 +160,10 @@
 
 <h2 align="center">⏱️ Coding Time (WakaTime)</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mr-reagen&title_color=FF7A00&text_color=FFFFFF&icon_color=00C853&bg_color=0D1117&hide_border=true&layout=compact&langs_count=8&cache_seconds=1800" alt="WakaTime Stats" width="70%" />
+  <img src="assets/wakatime-placeholder.svg" width="100%" alt="WakaTime Stats" />
+</p>
+<p align="center">
+  <sub>⚙️ To activate: share your WakaTime <strong>username</strong> from <a href="https://wakatime.com/settings/account">wakatime.com/settings/account</a> and set profile to public</sub>
 </p>
 
 <h2 align="center">🎵 Now Playing on Spotify</h2>
