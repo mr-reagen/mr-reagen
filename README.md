@@ -160,10 +160,7 @@
 
 <h2 align="center">⏱️ Coding Time (WakaTime)</h2>
 <p align="center">
-  <img src="assets/wakatime-placeholder.svg" width="100%" alt="WakaTime Stats" />
-</p>
-<p align="center">
-  <sub>⚙️ <a href="https://wakatime.com">Sign up free at wakatime.com</a> → install VS Code WakaTime plugin → real stats replace this card automatically</sub>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mr-reagen&title_color=FF7A00&text_color=FFFFFF&icon_color=00C853&bg_color=0D1117&hide_border=true&layout=compact&langs_count=8&cache_seconds=1800" alt="WakaTime Stats" width="70%" />
 </p>
 
 <h2 align="center">🎵 Now Playing on Spotify</h2>
