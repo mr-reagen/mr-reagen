@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 180" width="800" height="180">
+  <defs>
+    <linearGradient id="cardGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#161B22"/>
+      <stop offset="100%" style="stop-color:#0D1117"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <filter id="softglow"><feGaussianBlur stdDeviation="1.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="180" fill="#0D1117" rx="10"/>
+  <rect x="1" y="1" width="798" height="178" fill="none" stroke="#FF7A00" stroke-width="1.5" rx="9" opacity="0.5">
+    <animate attributeName="opacity" values="0.3;0.7;0.3" dur="3s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Title -->
+  <text x="400" y="32" text-anchor="middle" font-family="monospace" font-size="16" font-weight="bold" fill="#FF7A00" filter="url(#glow)">🏆 Certifications &amp; Achievements</text>
+
+  <!-- Badge 1: Docker DCA -->
+  <rect x="20" y="50" width="112" height="110" fill="url(#cardGrad)" rx="8" stroke="#FF7A00" stroke-width="1" opacity="0.8"/>
+  <text x="76" y="80" text-anchor="middle" font-size="28">🐳</text>
+  <text x="76" y="100" text-anchor="middle" font-family="monospace" font-size="10" fill="#FF7A00" font-weight="bold">DOCKER</text>
+  <text x="76" y="114" text-anchor="middle" font-family="monospace" font-size="9" fill="#FFFFFF">DCA Certified</text>
+  <text x="76" y="128" text-anchor="middle" font-family="monospace" font-size="8" fill="#00C853">✓ UNLOCKED</text>
+  <text x="76" y="148" text-anchor="middle" font-family="monospace" font-size="8" fill="#8B949E">Professional</text>
+
+  <!-- Badge 2: CCNA -->
+  <rect x="148" y="50" width="112" height="110" fill="url(#cardGrad)" rx="8" stroke="#00C853" stroke-width="1" opacity="0.8"/>
+  <text x="204" y="80" text-anchor="middle" font-size="28">🌐</text>
+  <text x="204" y="100" text-anchor="middle" font-family="monospace" font-size="10" fill="#00C853" font-weight="bold">CISCO</text>
+  <text x="204" y="114" text-anchor="middle" font-family="monospace" font-size="9" fill="#FFFFFF">CCNA Certified</text>
+  <text x="204" y="128" text-anchor="middle" font-family="monospace" font-size="8" fill="#00C853">✓ UNLOCKED</text>
+  <text x="204" y="148" text-anchor="middle" font-family="monospace" font-size="8" fill="#8B949E">Networking</text>
+
+  <!-- Badge 3: CompTIA Net+ -->
+  <rect x="276" y="50" width="112" height="110" fill="url(#cardGrad)" rx="8" stroke="#FF7A00" stroke-width="1" opacity="0.8"/>
+  <text x="332" y="80" text-anchor="middle" font-size="28">🔒</text>
+  <text x="332" y="100" text-anchor="middle" font-family="monospace" font-size="10" fill="#FF7A00" font-weight="bold">CompTIA</text>
+  <text x="332" y="114" text-anchor="middle" font-family="monospace" font-size="9" fill="#FFFFFF">Network+</text>
+  <text x="332" y="128" text-anchor="middle" font-family="monospace" font-size="8" fill="#00C853">✓ UNLOCKED</text>
+  <text x="332" y="148" text-anchor="middle" font-family="monospace" font-size="8" fill="#8B949E">Security</text>
+
+  <!-- Badge 4: HackerOne -->
+  <rect x="404" y="50" width="112" height="110" fill="url(#cardGrad)" rx="8" stroke="#00C853" stroke-width="1" opacity="0.8"/>
+  <text x="460" y="80" text-anchor="middle" font-size="28">🐛</text>
+  <text x="460" y="100" text-anchor="middle" font-family="monospace" font-size="10" fill="#00C853" font-weight="bold">HackerOne</text>
+  <text x="460" y="114" text-anchor="middle" font-family="monospace" font-size="9" fill="#FFFFFF">Bug Bounty</text>
+  <text x="460" y="128" text-anchor="middle" font-family="monospace" font-size="8" fill="#00C853">✓ UNLOCKED</text>
+  <text x="460" y="148" text-anchor="middle" font-family="monospace" font-size="8" fill="#8B949E">Hunter</text>
+
+  <!-- Badge 5: BSc CSIT -->
+  <rect x="532" y="50" width="112" height="110" fill="url(#cardGrad)" rx="8" stroke="#FF7A00" stroke-width="1" opacity="0.8"/>
+  <text x="588" y="80" text-anchor="middle" font-size="28">🎓</text>
+  <text x="588" y="100" text-anchor="middle" font-family="monospace" font-size="10" fill="#FF7A00" font-weight="bold">BSc CSIT</text>
+  <text x="588" y="114" text-anchor="middle" font-family="monospace" font-size="9" fill="#FFFFFF">Texas Int'l</text>
+  <text x="588" y="128" text-anchor="middle" font-family="monospace" font-size="8" fill="#00C853">✓ UNLOCKED</text>
+  <text x="588" y="148" text-anchor="middle" font-family="monospace" font-size="8" fill="#8B949E">Academic</text>
+
+  <!-- Badge 6: IT Security Manager -->
+  <rect x="660" y="50" width="120" height="110" fill="url(#cardGrad)" rx="8" stroke="#00C853" stroke-width="1" opacity="0.8"/>
+  <text x="720" y="80" text-anchor="middle" font-size="28">🛡️</text>
+  <text x="720" y="100" text-anchor="middle" font-family="monospace" font-size="10" fill="#00C853" font-weight="bold">IT Security</text>
+  <text x="720" y="114" text-anchor="middle" font-family="monospace" font-size="9" fill="#FFFFFF">Manager</text>
+  <text x="720" y="128" text-anchor="middle" font-family="monospace" font-size="8" fill="#00C853">✓ UNLOCKED</text>
+  <text x="720" y="148" text-anchor="middle" font-family="monospace" font-size="8" fill="#8B949E">Leadership</text>
+</svg>

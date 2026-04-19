@@ -31,12 +31,9 @@
 
 <p align="center"><img src="assets/cyber-divider.svg" width="100%" /></p>
 
-<h2 align="center">🏆 GitHub Achievements</h2>
+<h2 align="center">🏆 Achievements & Certifications</h2>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mr-reagen&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=4" alt="Trophies Row 1" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mr-reagen&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Trophies Row 2" />
+  <img src="assets/achievements.svg" width="100%" alt="Achievements" />
 </p>
 
 <p align="center"><img src="assets/cyber-divider.svg" width="100%" /></p>
