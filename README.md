@@ -9,7 +9,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&pause=1000&color=00C853&center=true&vCenter=true&width=600&height=30&lines=Cybersecurity+Expert+%F0%9F%9B%A1%EF%B8%8F;Cloud+Architect+%E2%98%81%EF%B8%8F;IT+Security+Manager+%F0%9F%94%92;DevSecOps+Engineer+%F0%9F%9A%80;Bug+Bounty+Hunter+%F0%9F%90%9B;Network+Security+Specialist+%F0%9F%8C%90" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&pause=1000&color=00C853&center=true&vCenter=true&width=620&height=30&lines=Cybersecurity+Expert+%F0%9F%9B%A1%EF%B8%8F;Cloud+Architect+%E2%98%81%EF%B8%8F;IT+Security+Manager+%F0%9F%94%92;DevSecOps+Engineer+%F0%9F%9A%80;Bug+Bounty+Hunter+%F0%9F%90%9B;Network+Security+Specialist+%F0%9F%8C%90" alt="Typing SVG" />
 </p>
 
 <!-- Badges Row -->
@@ -35,25 +35,33 @@
 ## 👨‍💻 About Me
 
 ```bash
-┌─────────────────────────────────────────────────────────────┐
-│  $ whoami                                                    │
-│  > Sujit Raj Mehta — IT Security Manager & Cloud Architect   │
-│                                                             │
-│  $ cat profile.json                                          │
-│  {                                                           │
-│    "role"    : "IT Security Manager",                        │
-│    "location": "Kathmandu, Nepal 🇳🇵",                       │
-│    "focus"   : ["Cloud Security", "DevSecOps", "VAPT"],      │
-│    "certs"   : ["DCA", "CCNA", "CompTIA Net+"],              │
-│    "fun_fact": "I find bugs before they find me 🐛"          │
-│  }                                                           │
-└─────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────┐
+│  $ whoami                                                     │
+│  > Sujit Raj Mehta — IT Security Manager & Cloud Architect    │
+│                                                              │
+│  $ cat profile.json                                           │
+│  {                                                            │
+│    "role"    : "IT Security Manager",                         │
+│    "location": "Kathmandu, Nepal 🇳🇵",                        │
+│    "focus"   : ["Cloud Security", "DevSecOps", "VAPT"],       │
+│    "certs"   : ["DCA", "CCNA", "CompTIA Net+"],               │
+│    "fun_fact": "I find bugs before they find me 🐛"           │
+│  }                                                            │
+└──────────────────────────────────────────────────────────────┘
 ```
 
 <p align="center">
   <img src="https://img.shields.io/badge/🔭_Working_on-Baalvo_Platform-FF7A00?style=flat-square&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/🌱_Learning-Cloud_Security_%26_DevSecOps-00C853?style=flat-square&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/💬_Ask_me-Cybersecurity_%26_Cloud_Arch-FF7A00?style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/💬_Ask_me-Cybersecurity_%26_Cloud-FF7A00?style=flat-square&labelColor=0D1117" />
+</p>
+
+---
+
+<!-- Animated Hacker Terminal SVG -->
+<h2 align="center">🖥️ Live Terminal</h2>
+<p align="center">
+  <img src="assets/hacker-terminal.svg" alt="Hacker Terminal" width="100%" />
 </p>
 
 ---
@@ -73,6 +81,11 @@
   <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white&labelColor=00C853" />
   <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logoColor=white&labelColor=FF7A00" />
   <img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logoColor=white&labelColor=00C853" />
+</p>
+
+<!-- Animated Skill Bars SVG -->
+<p align="center">
+  <img src="assets/skill-bars.svg" alt="Skill Bars" width="100%" />
 </p>
 
 ---
@@ -110,7 +123,6 @@
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
-<!-- Profile Summary Cards -->
 <p align="center">
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mr-reagen&theme=github_dark" alt="Profile Details" />
 </p>
@@ -140,9 +152,28 @@
 
 ---
 
-<!-- Random Dev Quote -->
+<!-- Dev Joke -->
+<h2 align="center">😂 Dev Joke of the Day</h2>
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=dark&bgColor=%230D1117&borderColor=%23FF7A00&qColor=%23FF7A00&aColor=%2300C853&codeColor=%2300C853" alt="Dev Joke" />
+</p>
+
+<!-- Dev Quote -->
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+</p>
+
+---
+
+<!-- 3D Contribution Skyline -->
+<h2 align="center">🏙️ GitHub Skyline</h2>
+<p align="center">
+  <a href="https://skyline.github.com/mr-reagen/2025">
+    <img src="https://img.shields.io/badge/View_My_3D_Contribution_City-FF7A00?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub Skyline 2025" />
+  </a>
+  <a href="https://skyline.github.com/mr-reagen/2024">
+    <img src="https://img.shields.io/badge/View_2024_Skyline-00C853?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub Skyline 2024" />
+  </a>
 </p>
 
 <!-- Footer -->
