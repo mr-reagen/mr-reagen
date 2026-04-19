@@ -160,20 +160,17 @@
 
 <h2 align="center">⏱️ Coding Time (WakaTime)</h2>
 <p align="center">
-  <a href="https://wakatime.com">
-    <img src="https://img.shields.io/badge/WakaTime-Coming_Soon-FF7A00?style=for-the-badge&logo=wakatime&logoColor=white&labelColor=0D1117" />
-  </a>
-  <br><br>
-  <sub>⚙️ <a href="https://wakatime.com">Sign up free → install VS Code WakaTime plugin → coding stats appear here</a></sub>
+  <img src="assets/wakatime-placeholder.svg" width="100%" alt="WakaTime Stats" />
+</p>
+<p align="center">
+  <sub>⚙️ <a href="https://wakatime.com">Sign up free at wakatime.com</a> → install VS Code WakaTime plugin → real stats replace this card automatically</sub>
 </p>
 
 <h2 align="center">🎵 Now Playing on Spotify</h2>
 <p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com">
-    <img src="https://img.shields.io/badge/Spotify-Connect_to_Enable-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=0D1117" />
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=312zv65s3ywsehfspg4h4pcpc6xy&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=312zv65s3ywsehfspg4h4pcpc6xy&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=true&bar_color_cover=true" alt="Spotify Now Playing" />
   </a>
-  <br><br>
-  <sub>⚙️ <a href="https://spotify-github-profile.kittinanx.com">Visit spotify-github-profile.kittinanx.com</a> → connect Spotify → replace UID in README</sub>
 </p>
 
 <p align="center"><img src="assets/cyber-divider.svg" width="100%" /></p>

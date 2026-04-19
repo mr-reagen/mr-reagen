@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="800" height="200">
+  <defs>
+    <linearGradient id="bar1" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" style="stop-color:#FF7A00"/><stop offset="100%" style="stop-color:#FF9A40"/></linearGradient>
+    <linearGradient id="bar2" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" style="stop-color:#FF7A00"/><stop offset="100%" style="stop-color:#FF9A40"/></linearGradient>
+    <linearGradient id="bar3" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" style="stop-color:#00C853"/><stop offset="100%" style="stop-color:#69F0AE"/></linearGradient>
+    <linearGradient id="bar4" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" style="stop-color:#00C853"/><stop offset="100%" style="stop-color:#69F0AE"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="800" height="200" fill="#0D1117" rx="10"/>
+  <rect x="1" y="1" width="798" height="198" fill="none" stroke="#FF7A00" stroke-width="1.5" rx="9" opacity="0.6">
+    <animate attributeName="opacity" values="0.4;0.9;0.4" dur="3s" repeatCount="indefinite"/>
+  </rect>
+  <!-- Header -->
+  <text x="30" y="36" font-family="monospace" font-size="18" font-weight="bold" fill="#FF7A00" filter="url(#glow)">⏱ Weekly Coding Stats</text>
+  <text x="770" y="36" text-anchor="end" font-family="monospace" font-size="12" fill="#8B949E">powered by WakaTime</text>
+
+  <!-- Row 1: Python -->
+  <text x="30" y="68" font-family="monospace" font-size="13" fill="#FFFFFF">Python</text>
+  <text x="200" y="68" font-family="monospace" font-size="12" fill="#8B949E">4 hrs 20 mins</text>
+  <rect x="340" y="56" width="390" height="12" fill="#161B22" rx="6"/>
+  <rect x="340" y="56" width="0" height="12" fill="url(#bar1)" rx="6" opacity="0.7">
+    <animate attributeName="width" values="0;273;273" keyTimes="0;0.5;1" dur="4s" repeatCount="indefinite"/>
+  </rect>
+  <text x="770" y="68" text-anchor="end" font-family="monospace" font-size="12" fill="#FF7A00">70%</text>
+
+  <!-- Row 2: JavaScript -->
+  <text x="30" y="102" font-family="monospace" font-size="13" fill="#FFFFFF">JavaScript</text>
+  <text x="200" y="102" font-family="monospace" font-size="12" fill="#8B949E">3 hrs 10 mins</text>
+  <rect x="340" y="90" width="390" height="12" fill="#161B22" rx="6"/>
+  <rect x="340" y="90" width="0" height="12" fill="url(#bar2)" rx="6" opacity="0.7">
+    <animate attributeName="width" values="0;195;195" keyTimes="0;0.6;1" dur="4s" begin="0.2s" repeatCount="indefinite"/>
+  </rect>
+  <text x="770" y="102" text-anchor="end" font-family="monospace" font-size="12" fill="#FF7A00">50%</text>
+
+  <!-- Row 3: Bash -->
+  <text x="30" y="136" font-family="monospace" font-size="13" fill="#FFFFFF">Bash</text>
+  <text x="200" y="136" font-family="monospace" font-size="12" fill="#8B949E">2 hrs 05 mins</text>
+  <rect x="340" y="124" width="390" height="12" fill="#161B22" rx="6"/>
+  <rect x="340" y="124" width="0" height="12" fill="url(#bar3)" rx="6" opacity="0.7">
+    <animate attributeName="width" values="0;156;156" keyTimes="0;0.7;1" dur="4s" begin="0.4s" repeatCount="indefinite"/>
+  </rect>
+  <text x="770" y="136" text-anchor="end" font-family="monospace" font-size="12" fill="#00C853">40%</text>
+
+  <!-- Row 4: YAML -->
+  <text x="30" y="170" font-family="monospace" font-size="13" fill="#FFFFFF">YAML</text>
+  <text x="200" y="170" font-family="monospace" font-size="12" fill="#8B949E">1 hr 30 mins</text>
+  <rect x="340" y="158" width="390" height="12" fill="#161B22" rx="6"/>
+  <rect x="340" y="158" width="0" height="12" fill="url(#bar4)" rx="6" opacity="0.7">
+    <animate attributeName="width" values="0;117;117" keyTimes="0;0.8;1" dur="4s" begin="0.6s" repeatCount="indefinite"/>
+  </rect>
+  <text x="770" y="170" text-anchor="end" font-family="monospace" font-size="12" fill="#00C853">30%</text>
+
+  <!-- Footer -->
+  <text x="400" y="192" text-anchor="middle" font-family="monospace" font-size="11" fill="#FF7A00" opacity="0.8">
+    ⚙ Connect WakaTime to display your real coding stats here
+  </text>
+</svg>
