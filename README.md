@@ -88,7 +88,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-reagen&title_color=FF7A00&text_color=FFFFFF&icon_color=00C853&ring=FF7A00&fire=FF7A00&currStreakNum=00C853&sideNums=FFFFFF&currStreakLabel=FF7A00&sideLabels=FFFFFF&dates=FFFFFF&hide_border=true&background=00000000" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=mr-reagen&title_color=FF7A00&text_color=FFFFFF&icon_color=00C853&ring=FF7A00&fire=FF7A00&currStreakNum=00C853&sideNums=FFFFFF&currStreakLabel=FF7A00&sideLabels=FFFFFF&dates=FFFFFF&hide_border=true&background=00000000" alt="Streak Stats" />
 </div>
 
 
