@@ -33,7 +33,10 @@
 
 <h2 align="center">🏆 GitHub Achievements</h2>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mr-reagen&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&column=7" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mr-reagen&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=4" alt="Trophies Row 1" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mr-reagen&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Trophies Row 2" />
 </p>
 
 <p align="center"><img src="assets/cyber-divider.svg" width="100%" /></p>
