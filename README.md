@@ -75,20 +75,26 @@
 
 <h2 align="center">📈 Coding Activity</h2>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mr-reagen&bg_color=00000000&color=FFFFFF&line=FF7A00&point=00C853&title_color=FF7A00&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mr-reagen&bg_color=0D1117&color=FF7A00&line=FF7A00&point=00C853&title_color=FF7A00&hide_border=true&radius=6" alt="Activity Graph" />
 </p>
 
 <h2 align="center">📊 GitHub Metrics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mr-reagen&show_icons=true&title_color=FF7A00&text_color=FFFFFF&icon_color=00C853&hide_border=true&bg_color=00000000&rank_icon=github" alt="Stats Card" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-reagen&layout=donut&title_color=FF7A00&text_color=FFFFFF&icon_color=00C853&hide_border=true&bg_color=00000000" alt="Top Languages Donut" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mr-reagen&show_icons=true&count_private=true&include_all_commits=true&title_color=FF7A00&text_color=FFFFFF&icon_color=00C853&hide_border=true&bg_color=0D1117&rank_icon=github" alt="Stats Card" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-reagen&layout=donut&langs_count=8&title_color=FF7A00&text_color=FFFFFF&icon_color=00C853&hide_border=true&bg_color=0D1117" alt="Top Languages Donut" width="48%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=mr-reagen&title_color=FF7A00&text_color=FFFFFF&icon_color=00C853&ring=FF7A00&fire=FF7A00&currStreakNum=00C853&sideNums=FFFFFF&currStreakLabel=FF7A00&sideLabels=FFFFFF&dates=FFFFFF&hide_border=true&background=00000000" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=mr-reagen&ring=FF7A00&fire=FF7A00&currStreakNum=00C853&sideNums=FFFFFF&currStreakLabel=FF7A00&sideLabels=FFFFFF&dates=FFFFFF&hide_border=true&background=0D1117&stroke=FF7A00" alt="Streak Stats" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mr-reagen&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=6&title=Stars,Commits,Repositories,Followers,Issues,PullRequest" alt="Trophies" />
 </div>
 
 
